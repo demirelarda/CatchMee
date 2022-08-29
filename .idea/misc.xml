@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny2/app/src/main/res/layout/activity_main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny2/app/src/main/res/layout/activity_select_dif.xml" value="0.264" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny2/app/src/main/res/layout/activity_store.xml" value="0.264" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny2/app/src/main/res/layout/recycler_row.xml" value="0.264" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_change_character.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_coin_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_forgot_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_inventory.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_main2.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_new_store.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_player_inventory.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_register.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_select_dif.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_store.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_test_bought.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_test_for_fb.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/activity_top_players.xml" value="0.264" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/inventory_recycler_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/new_store_recycler_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/recycler_row.xml" value="0.264" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/select_character_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/top_easy_players_recycler_row.xml" value="0.264" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/top_hard_players_recycler_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/top_medium_players_recycler_row.xml" value="0.253125" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/layout/top_players_recycler_row.xml" value="0.264" />
+        <entry key="..\:/Users/yadem/AndroidStudioProjects/CatchKenny3/app/src/main/res/menu/logout_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

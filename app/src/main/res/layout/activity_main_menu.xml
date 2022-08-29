@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainbg"
+    tools:context=".view.MainMenuActivity">
+
+
+    <Button
+        android:id="@+id/playButton"
+        android:layout_width="238dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="208dp"
+        android:onClick="playGame"
+        android:text="Play"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/storeButton"
+        android:layout_width="238dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:onClick="store"
+        android:text="STORE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/selectDifButton" />
+
+    <Button
+        android:id="@+id/topPlayersButton"
+        android:layout_width="238dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:onClick="topPlayersClicked"
+        android:text="TOP PLAYERS"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button5" />
+
+    <Button
+        android:id="@+id/selectDifButton"
+        android:layout_width="238dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:onClick="selectDif"
+        android:text="DIFFICULTY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/playButton" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="238dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:onClick="inventoryClicked"
+        android:text="INVENTORY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/storeButton" />
+
+    <TextView
+        android:id="@+id/mainMenuUserText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="@color/white"
+        android:text="TextView"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
