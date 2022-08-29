@@ -19,7 +19,17 @@
 * Project backend is being developing with Firebase
 * Using Firestore as a database, Using Firebase Authentication for user registration and login also Fire Storage for keeping store resources.
 * Using FCM for notification system.
-* There is an `admin panel` of this app.
+* There is an `admin panel` app for this app.
 * Admins can upload new items to store, edit user datas, send spesific users notifications, send gifts to users.
 
 
+## Upcoming Features
+
+* Admin panel app will be uploaded soon.
+* Store system will be uploaded soon.
+* Users will be able to send gifts to each other.
+* User profile customization options.
+* VIP membership system.
+* There will be a 1v1 live version. (Testing Stage)
+* There will be different modes.
+* There will be clans.
