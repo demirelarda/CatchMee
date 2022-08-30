@@ -22,10 +22,14 @@
 * There is an `admin panel` app for this app.
 * Admins can upload new items to store, edit user datas, send spesific users notifications, send gifts to users.
 
+## Database Structure(User Datas)
+
+![databaseStructure](https://user-images.githubusercontent.com/93993257/187507167-42944a58-1110-475e-8eb1-88a5bc6e8396.PNG)
+
 
 ## Upcoming Features
 
-* Admin panel app will be uploaded soon.
+* Admin panel app will be uploaded soon. (Done)
 * Store system will be uploaded soon.
 * Users will be able to send gifts to each other.
 * User profile customization options.
@@ -33,3 +37,5 @@
 * There will be a 1v1 live version. (Testing Stage)
 * There will be different modes.
 * There will be clans.
+
+
